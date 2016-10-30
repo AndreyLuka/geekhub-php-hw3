@@ -1,0 +1,20 @@
+{
+    "name": "luka/geekhub-php-hw3",
+    "description": "Geekhub PHP HomeWork#3",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Lukashenko",
+            "email": "luka.andrey@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Luka\\DirectoryReader\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
