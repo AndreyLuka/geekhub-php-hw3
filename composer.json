@@ -1,6 +1,6 @@
 {
-    "name": "luka/geekhub-php-hw3",
-    "description": "Geekhub PHP HomeWork#3",
+    "name": "luka/geekhub-php-library",
+    "description": "Geekhub PHP HomeWork#3: Library",
     "type": "library",
     "license": "MIT",
     "authors": [
